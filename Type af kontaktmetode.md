@@ -1,5 +1,7 @@
 # Type af kontaktmetode
 
+Anvendes til at klassificere de forskellige typer af kontaktpunkter
+
 | **præfiks** | **navnerum**                                         | **titel**           |
 | ----------- | ---------------------------------------------------- | ------------------- |
 | ci          | https://data.gov.dk/concept/core/contactinformation/ | Contact information |
