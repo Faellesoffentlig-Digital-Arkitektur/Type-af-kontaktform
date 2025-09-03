@@ -1,2 +1,2 @@
-# Type-af-kontaktform
+# Type af kontaktform
 Klassifikation af mulige kontaktformer.
